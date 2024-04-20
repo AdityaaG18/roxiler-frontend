@@ -33,9 +33,7 @@ const MonthAndSearch = ({
           onChange={onSearchChange}
           placeholder="Search transaction"
         />
-        {/* <button className=" bg-red-500 rounded-xl p-3" onClick={onClear}>
-          Clear
-        </button> */}
+       
       </div>
 
       {/* Month Changer */}
